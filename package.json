@@ -1,0 +1,16 @@
+{
+  "name": "practicajavascript",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto en Javascript",
+  "main": "index.js",
+  "scripts": {
+    "happyPath": "línea de comando del happy path",
+    "console": "node 1_consolelog.js",
+    "test": "jest"
+  },
+  "author": "Rose",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
